@@ -1,2 +1,3 @@
 On fait un fichier test
-Ici, la ligne 2
+Ici, la ligne 2, vraiment
+Et là, ligne 3
